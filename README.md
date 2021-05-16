@@ -1,6 +1,6 @@
 # Deep-String-Matching-for-Duplicate-Detection
 
-Deep string matching for record linkage that deals with typography errors, domain dependancy and toponyms.	1
+Deep string matching for record linkage that deals with typography errors, domain dependancy and toponyms.	
 
 ** The self-attention layer is currently not working correctly. This is being fixed.**
 
