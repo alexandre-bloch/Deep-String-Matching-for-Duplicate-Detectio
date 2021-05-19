@@ -4,7 +4,7 @@ Deep string matching for record linkage that deals with typography errors, domai
 
 ** The self-attention layer is currently not working correctly. This is being fixed.**
 
-Article Link:
+Article Link: http://ssrn.com/abstract=3847416
 
 Python 3, Tensorflow 2.4.1 and Numpy 1.19.5 (note that using a higher version of Numpy is incompatible with Tensorflow)
 
