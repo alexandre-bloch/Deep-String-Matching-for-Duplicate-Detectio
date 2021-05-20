@@ -2,7 +2,7 @@
 
 Deep string matching for record linkage that deals with typography errors, domain dependancy and toponyms.	
 
-** The self-attention layer is currently not working correctly. This is being fixed.**
+** The self-attention layer is currently being investigated.**
 
 Article Link: http://ssrn.com/abstract=3847416
 
